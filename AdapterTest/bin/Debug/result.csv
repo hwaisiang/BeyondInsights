@@ -1,0 +1,19 @@
+Ticker,Company,Industry,Price,PEG,Insider Transactions,Institutional Ownership,Earnings Date,50-Day Simple Moving Average,20-Day Simple Moving Average,200-Day Simple Moving Average,TTM_PE
+BAC,Bank of America Corporation,Money Center Banks,16.7,0.91,1.88%,60.70%,1/15/2014 7:00:00 AM,2.94%,-0.20%,14.73%,1.678886
+DAL,Delta Air Lines Inc.,Major Airlines,31.34,0.18,-26.46%,89.80%,1/21/2014 8:30:00 AM,6.00%,0.97%,32.43%,5.803378
+DG,Dollar General Corporation,Discount_ Variety Stores,57.26,1.2,-51.18%,93.90%,12/5/2013 8:30:00 AM,-3.06%,0.13%,2.04%,1.152582
+DOW,The Dow Chemical Company,Chemicals - Major Diversified,46.71,1.08,-5.25%,71.10%,1/29/2014 8:30:00 AM,7.77%,3.96%,22.57%,1.816314
+EW,Edwards Lifesciences Corp.,Medical Appliances & Equipment,67.53,1.61,-2.49%,87.60%,2/4/2014 4:30:00 PM,2.06%,0.60%,-1.07%,1.094577
+FLS,Flowserve Corp.,Diversified Machinery,76.44,1.6,-10.48%,92.60%,2/19/2014 4:30:00 PM,2.67%,3.50%,20.90%,1.135582
+IP,International Paper Co.,Packaging & Containers,49.18,0.99,11.06%,88.70%,2/4/2014 8:30:00 AM,3.54%,4.51%,6.85%,1.372728
+KORS,Michael Kors Holdings Ltd.,Specialty Retail_ Other,98.46,1.32,-1.20%,87.10%,2/4/2014 8:30:00 AM,19.28%,15.71%,35.38%,1.253847
+MA,Mastercard Incorporated,Credit Services,77.39,1.71,-2.26%,79.90%,1/31/2014 8:30:00 AM,-2.49%,-0.43%,14.52%,1.19897
+MS,Morgan Stanley,Investment Brokerage - National,29.69,0.81,10.60%,63.60%,1/17/2014 8:30:00 AM,-3.46%,-2.33%,6.62%,1.076801
+MWV,MeadWestvaco Corporation,Packaging & Containers,36.23,1.37,17.30%,88.80%,1/29/2014 8:30:00 AM,3.94%,3.00%,4.70%,2.120246
+V,Visa_ Inc.,Credit Services,226,1.59,-6.75%,89.90%,1/30/2014 8:30:00 AM,4.21%,2.09%,16.52%,1.174316
+WHR,Whirlpool Corp.,Appliances,138.56,0.64,-20.30%,94.40%,1/30/2014 6:00:00 AM,-6.79%,-1.80%,1.49%,1.306845
+CTSH,Cognizant Technology Solutions Corporation,Business Software & Services,100.34,1.44,10.35%,95.70%,2/5/2014 8:30:00 AM,3.09%,3.00%,23.71%,1.214964
+DTV,DIRECTV_ Inc.,CATV Systems,71.89,1.35,-0.32%,88.10%,2/20/2014 8:30:00 AM,4.28%,2.19%,12.75%,1.092234
+GOOG,Google Inc.,Internet Information Providers,1202.8,1.98,-81.34%,86.60%,1/30/2014 4:30:00 PM,7.23%,4.28%,24.67%,1.166431
+PCLN,priceline.com Incorporated,Business Services,1279.66,1.85,-4.11%,98.10%,2/20/2014 4:30:00 PM,9.14%,8.64%,28.45%,1.193658
+VIAB,Viacom_ Inc.,Entertainment - Diversified,85.48,1.36,25.24%,91.40%,1/30/2014 8:30:00 AM,2.50%,3.87%,10.26%,1.126087

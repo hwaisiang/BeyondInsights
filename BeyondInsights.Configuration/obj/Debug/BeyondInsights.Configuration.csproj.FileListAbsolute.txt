@@ -1,0 +1,5 @@
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Debug\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Debug\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Debug\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Debug\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Debug\BeyondInsights.Configuration.dll.config

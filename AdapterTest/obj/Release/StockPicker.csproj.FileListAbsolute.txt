@@ -1,0 +1,17 @@
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\StockPicker.exe.config
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\BeyondInsights.Configuration.dll.config
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\StockPicker.exe
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\StockPicker.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\BeyondInsights.Data.Adapters.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\HtmlAgilityPack.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\BeyondInsights.Data.Adapters.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\HtmlAgilityPack.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\HtmlAgilityPack.xml
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\LumenWorks.Framework.IO.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Release\LumenWorks.Framework.IO.xml
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Release\StockPicker.csprojResolveAssemblyReference.cache
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Release\StockPicker.exe
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Release\StockPicker.pdb

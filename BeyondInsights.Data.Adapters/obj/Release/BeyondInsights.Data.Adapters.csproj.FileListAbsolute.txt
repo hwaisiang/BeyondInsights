@@ -1,0 +1,14 @@
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\BeyondInsights.Configuration.dll.config
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\BeyondInsights.Data.Adapters.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\BeyondInsights.Data.Adapters.pdb
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\HtmlAgilityPack.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\LumenWorks.Framework.IO.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\HtmlAgilityPack.pdb
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\HtmlAgilityPack.xml
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\LumenWorks.Framework.IO.pdb
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\bin\Release\LumenWorks.Framework.IO.xml
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\obj\Release\BeyondInsights.Data.Adapters.csprojResolveAssemblyReference.cache
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\obj\Release\BeyondInsights.Data.Adapters.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Data.Adapters\obj\Release\BeyondInsights.Data.Adapters.pdb

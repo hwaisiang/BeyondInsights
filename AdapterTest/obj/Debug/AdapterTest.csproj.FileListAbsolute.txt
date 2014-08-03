@@ -1,0 +1,17 @@
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\AdapterTest.exe
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\AdapterTest.pdb
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\BeyondInsights.Data.Adapters.dll
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\BeyondInsights.Data.Adapters.pdb
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Debug\AdapterTest.csprojResolveAssemblyReference.cache
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Debug\AdapterTest.exe
+c:\users\hwaisiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\obj\Debug\AdapterTest.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\BeyondInsights.Configuration.dll.config
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\AdapterTest.exe.config
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\HwaiSiang\documents\visual studio 2012\Projects\BeyondInsightsExcelAddIn\AdapterTest\bin\Debug\HtmlAgilityPack.xml

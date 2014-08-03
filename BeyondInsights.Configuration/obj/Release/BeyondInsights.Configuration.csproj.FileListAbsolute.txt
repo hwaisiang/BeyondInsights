@@ -1,0 +1,12 @@
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.dll.config
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.pdb
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.dll
+C:\Users\HwaiSiang\Documents\Visual Studio 2012\Projects\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.pdb
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.dll.config
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.dll
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\bin\Release\BeyondInsights.Configuration.pdb
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.dll
+C:\Users\khorh\Google Drive\workspace\BeyondInsightsExcelAddIn\BeyondInsights.Configuration\obj\Release\BeyondInsights.Configuration.pdb
